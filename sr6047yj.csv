@@ -1,0 +1,26 @@
+FACULTY
+--------------
+" Lee, " James,3365 Utah CT," New York, NY 68956" ,986-55-4698
+,TIP,$2575.5
+
+" Washington, " Mary,121 Main St," Mankato, MN 56001" ,477-38-9453
+,ENG,$2172.423076923077
+
+STUDENT EMPLOYEES
+---------------------------------
+" Dylan, " Bob,9837 Random Road," Los Angeles, CA 55698" ,888-45-9876
+,POP,$414.0
+
+" Mayer, " Dawn,6696 Something Blvd," City, NJ 44420" ,333-66-9999
+,MIS,$406.0
+
+" Smith, " Emma,2043 Andrews Dr," N Mankato, MN 56003" ,345-45-8954
+,CIS,$277.5
+
+ALL EMPLOYEES
+-------------------------
+" Dylan, " Bob,888-45-9876
+" Lee, " James,986-55-4698
+" Mayer, " Dawn,333-66-9999
+" Smith, " Emma,345-45-8954
+" Washington, " Mary,477-38-9453
